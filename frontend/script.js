@@ -1,4 +1,4 @@
-const apiUrl = "http://localhost:5000/api/weather?units=";
+const apiUrl = "https://weather-site-5gf8.onrender.com/api/weather?units=";
 const searchBox = document.querySelector(".search input");
 const searchBtn = document.querySelector(".search button");
 const weatherIcon = document.querySelector(".weather-icon");
