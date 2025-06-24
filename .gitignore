@@ -1,0 +1,5 @@
+# Ignore backend node modules
+/weather-backend/node_modules/
+
+# Ignore environment secrets
+/weather-backend/.env
